@@ -1,0 +1,5 @@
+Zasada działania jest w zasadzie całkiem prosta. W momencie, kiedy pojawia sie sygnał startowy (jeszcze go nie zrobiłem) 
+to patrzymy się na literę i jeżeli sie pojawi w okół niej obramówka, to mrugamy. 
+Pojedynczy sygnał składa się z 5 plansz, gdzie na każdej jest inne ułożenie podświetlonych liter.
+Kiedy skończy sie seria 5 plansz to następuje chwila przerwy i następuje przejście do kolejnej litery.
+Każdej z liter jest przypisana własna sekwencja (liczby od 1:30 w zapisie binarnym)
